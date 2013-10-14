@@ -1,3 +1,3 @@
-main() {
-main changed
+void main() {
+  printf("hello");
 }
