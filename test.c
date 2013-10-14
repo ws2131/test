@@ -1,2 +1,3 @@
-main() {
+void main() {
+  printf("hello");
 }
